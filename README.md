@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Alessandro.
+I'm a software developer based in Milan, Italy. While my primary focus is backend development with Springboot and Laravel, I often find myself wearing many hats to ensure the project's success. Whether it's managing cloud infrastructure, data analysis, frontend development or CI/CD, I'm always ready to tackle whatever needs to be done.
+
+When I'm not programming…
+
+...you'll often find me in the mountains or out sailing, aiming to keep a healthy work-life balance. I enjoy discovering new trails, immersing myself in nature, and finding inspiration in the stunning scenery around me.
 
 <!--
 **AlessandroCuria/AlessandroCuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
