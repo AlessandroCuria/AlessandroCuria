@@ -5,7 +5,7 @@ When I'm not programming…
 
 ...you'll often find me in the mountains or out sailing, aiming to keep a healthy work-life balance. I enjoy discovering new trails, immersing myself in nature, and finding inspiration in the stunning scenery around me.
 
-Feel free to contact me through [email](a.curia33@gmail.com), or LinkedIn[https://www.linkedin.com/in/alessandro-curia-176253133].
+Feel free to contact me through [email](a.curia33@gmail.com), or [LinkedIn](https://www.linkedin.com/in/alessandro-curia-176253133]).
 
 <!--
 **AlessandroCuria/AlessandroCuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
